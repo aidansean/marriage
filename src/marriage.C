@@ -438,7 +438,7 @@ bestFit_line->SetLineStyle(kDotted) ;
 
 low  = 7 + 0.5*overall_min ;
 high = 7 + 0.5*overall_max ;
-TLine* halfHisAgePlus7_line = new TLine(overall_min, low, overall_max, high) ;
+TLine* halfHisAgePlus7_line = new TLine(low, overall_min, high, overall_max) ;
 halfHisAgePlus7_line->SetLineColor(kBlue  ) ;
 halfHisAgePlus7_line->SetLineStyle(kDashed) ;
 
