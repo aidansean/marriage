@@ -1,13 +1,16 @@
+[mathjax]
+
 This project was the first step in a larger project that scrubbed data from pages for analysis.
 
 <h3>Links</h3>
 
 <a href="http://www.aidansean.com/marriage">Live page</a>
+<a href="http://en.wikipedia.org/w/index.php?title=Age_at_first_marriage&oldid=573979725">Wikipedia page</a>
 <a href="https://github.com/aidansean/marriage">GitHub repository</a>
 
 <h3>Overview</h3>
 
-This page takes input from Wikipedia (although at the moment this is extracted manually from the main page) and then produces a C script which summarises the data for further analysis.  ROOT is then used to make a plot showing the data.  The idea behind the project was to make data scrubbing easier and to give me practice in data scrubbing.  If I ever get sufficient time I intend to create some resources to make data scrubbing easier and make sharing of publically accessible data simpler. 
+This page takes input from Wikipedia (although at the moment this is extracted manually from the main page) and then produces a C script which summarises the data for further analysis.  ROOT is then used to make a plot showing the data.  The idea behind the project was to make data scrubbing easier and to give me practice in data scrubbing.  If I ever get sufficient time I intend to create some resources to make data scrubbing easier and make sharing of publically accessible data simpler.  The the data are taken from an outdated <a href="http://en.wikipedia.org/w/index.php?title=Age_at_first_marriage&oldid=573979725">Wikiepdia page</a> which is missing many sources.
 
 <h3>Challenges</h3>
 <dl>
